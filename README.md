@@ -1,2 +1,17 @@
-# rni-future-fund
-Unterlagen zur Erweiterung der Holzwerkstatatt mit dem Förderprogramm Heimat-Scheck
+# Einrichtung einer Möbelwerkstatt - rni-future
+
+Unser Makerspace ist eine offene Werkstatt in der Maschinen und Werkzeuge gemeinschaftlich genutzt und erforscht werden. Unsere Mitglieder haben verschiedene Kenntnisse und unterstützen sich gegenseitig bei Projekten die sie alleine nicht umsetzen könnten. Auch Nichtmitglieder dürfen die Einrichtung in Begleitung von Mitglieder nutzen. Allerdings machen wir keine Auftragsarbeit, sondern es muss selbst Hand angelegt werden.
+
+Wir haben bereits eine rudimentär ausgestattete Holzwerkstatt mit einfachen Maschinen die günstig und gebraucht erworben wurden. Leider reichen diese nicht aus um neben funktionellen Gegenständen auch präzise oder ästhetische Gegenstände herzustellen. Daher soll die Holzwerkstatt durch neue Maschinen und Werkzeuge zu einer Möbelwerkstatt aufgewertet werden. Geplant sind die Anschaffung einer Multifunktionswerkbank mit Oberfräse, Tischkreissäge und Tischstichssäge, sowie weiteren Geräten zum Hobeln, Bohren, Verbinden und Polstern.
+
+Gütersloh liegt im Herzen der deutschen Möbelindustrie - OWL. Im Kreis Gütersloh gibt es die Unternehmen Pfleiderer, Nobilia, Venjakob, Möbel Beckhoff, Huga, Westag & Getalit sowie das Edelholzsägewerk Hermann Huxohl und die historische Sägemühle Meier Osthoff. Zur letzten wurde im Juli 2021 eine Exkursion unternommen um etwas über die historischen Möglichkeiten der Holzverarbeitung zu lernen. Leider hat die Bedeutung der Möbelbranche in Gütersloh stark nachgelassen. Sodass viele Hersteller Insolvenz anmelden mussten. Im Jahr 2007 hat es den letzten Namenhaften Hersteller Flötotto getroffen.
+
+Viele unserer Mitglieder sind noch jung und wollen ihre eigene erste Wohnung mit Möbeln ausstatten die den jeweiligen Designvorstellungen entsprechen. Andere Mitglieder sind älter und bewohnen ein Fachwerkhaus, welches schon lange in Familienbesitzt ist und instand gehalten werden muss.
+Mit der Möbelwerkstatt im Makerspace wollen wir Personen die Möglichkeit geben selbst und mit anderen zusammen eigenes, robustes, nachhaltiges Interieur herzustellen, zu erhalten oder zu verändern. Wir wollen ein Wertgefühl für die Möbel und insbesondere die Rohstoffe, aus denen sie bestehen, vermitteln. Wir hoffen, dass dadurch weniger billige Möbel gekauft werden die nach kurzer Nutzungsdauer wieder entsorgt werden.
+
+Bei unserem monatlichen Repair Café, welches durch Corona leider nicht so regelmäßig stattfinden konnte, wurden wir schon darauf angesprochen ob es möglich ist Möbel zu reparieren. Dies mussten wir bisher leider verneinen. Mit der Möbelwerkstatt sollte es "einfach" möglich sein kunstvolle Möbel zu restaurieren.
+
+Unter unseren Mitgliedern besitzen wir die Expertise und die Motivation um die Notwendigen Fähigkeiten im Umgang mit den Maschinen und Werkzeugen an andere weiter zu geben. Das Wissen wurde entweder durch eine handwerkliche Ausbildung oder durch eine stetige Bastelleidenschaft erworben. Um das gemeinschaftliche Arbeiten zu stärken kann ein regelmäßiger Motto-Basteltag veranstaltet werden bei dem es speziell um die Möbelherstellung geht. Dabei können dann auch insbesondere Anfänger schauen was die Anderen machen und so von deren Erfahrungen profitieren.
+Einen ähnlichen Motto-Tag veranstalten wir bereits zum Thema Textilbearbeitung.
+
+Eine Auflistung der geplanten Anschaffungen ist in der "[Einkaufsliste](Einkaufsliste.md)" zu finden.
