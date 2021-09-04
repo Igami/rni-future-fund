@@ -162,11 +162,11 @@ siehe [Einkaufsliste.md](Einkaufsliste.md)
 
 |                                         |            |
 | --------------------------------------- | ---------: |
-| Gesamtkosten Summe lt. Aufstellung      | 2.xxx,xx € |
+| Gesamtkosten Summe lt. Aufstellung      | 2.426,05 € |
 | abzgl. Einnahmen und Leistungen Dritter |     0,00 € |
-| Zuwendungsfähige Gesamtausgaben         | 2.xxx,xx € |
-| Beantragte Förderung                    | 2.000,00 € |
-| Eigenanteil                             |   xxx,xx € |
+| Zuwendungsfähige Gesamtausgaben         | 2.426,05 € |
+| Beantragte Förderung                    | 2.426,05 € |
+| Eigenanteil                             |   426,05 € |
 
 # Auszahlung nach Bestandskraft des Zuwendungsbescheides
 Die Auszahlung erfolgt abweichend von Nr. 1.4 Allgemeine Nebenbestimmungen für Zuwendungen zur Projektförderung (ANBest-P) nach Bestandskraft des Zuwendungsbescheides auf die angegebene Bankverbindung, ohne gesonderten Mittelabruf.

@@ -1,25 +1,34 @@
-| Nummer | Art der Leistung                  | Betrag | Link |
-| :----: | --------------------------------- | -----: | ---: |
-|   1    | Oberfräse                         |        |      |
-|   2    | Oberfrästisch                     |        |      |
-|   3    | Schaftfräser                      |        |      |
-|   4    | Nutenfräser                       |        |      |
-|   5    | Kreissägetisch                    |        |      |
-|   6    | Stichsäge                         |        |      |
-|   7    | Stichsägetisch                    |        |      |
-|   8    | Werkbank                          |        |      |
-|   9    | Akkus      chrauber               |        |      |
-|   10   | Exzenterschleifer                 |        |      |
-|   11   | Multicutter                       |        |      |
-|   12   | Winkelschleifer                   |        |      |
-|   13   | Tacker                            |        |      |
-|   14   | Japansäge                         |        |      |
-|   15   | Stechbeitel                       |        |      |
-|   16   | Standbohrmaschine                 |        |      |
-|   17   | Kappsäge                          |        |      |
-|   18   | Anschalgwinkel                    |        |      |
-|   19   | Parallelanreißer                  |        |      |
-|   20   | Winkelmesser                      |        |      |
-|   21   | Schablone für Dübel               |        |      |
-|   22   | Schablone für Schraubverbindungen |        |      |
-|        | **Summe**                         |        |      |
+# Einkaufsliste
+
+|  Nr.  | Art der Leistung                | Hersteller    | Typ                      |         Betrag | Link                                                                                                                                                                                                            |
+| :---: | ------------------------------- | ------------- | ------------------------ | -------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1   | Werkbank                        | Eigenbau      |                          |       150,00 € | https://www.holzwerken.net/artikel/archiv/zuschnittplaene-fuer-hobelbank-heft-53                                                                                                                                |
+|   2   | Schraubstock                    | eBay          | gebraucht                |       100,00 € |                                                                                                                                                                                                                 |
+|   3   | Steckdosewürfel                 | as - Schwabe  | Zugspitze                |        35,61 € | https://www.amazon.de/dp/B007J41YUK                                                                                                                                                                             |
+|   4   | Staubsauger                     | Kärcher       | NT 30/1 Tact L           |       359,89 € | https://www.aw-tools.de/Kaercher-Nass-/Trockensauger-NT-30/1-Tact-L-1148-2010-Staubsauger-Industrie-Nasssauger                                                                                                  |
+|   5   | Zyklon Staubabscheider          | Schoppengerdt | 30 L                     |        64,90 € | https://www.ebay.de/itm/264671974677                                                                                                                                                                            |
+|   6   | HT-Rohre                        | Hornbach      | Diverse                  |        50,00 € | https://www.hornbach.de/shop/Sanitaerinstallation/HT-Rohre/S1880/artikelliste.html                                                                                                                              |
+|   7   | Staubsaugerschlauch             | Wessper       | 32 mm                    |        36,99 € | https://www.amazon.de/dp/B081QK7L46                                                                                                                                                                             |
+|   8   | Filament                        | FormFutura    | ReForm rPLA              |        49,90 € | https://www.formfutura.com/shop/product/reform-rpla-2838                                                                                                                                                        |
+|   9   | Oberfräse                       | Makita        | RT0700CX2J               |       177,80 € | https://www.tooltown.de/shopware.php?sViewport=detail&sArticle=1534                                                                                                                                             |
+|  10   | Bandsäge                        | Metabo        | BAS 261                  |       270,00 € | https://www.ebay.de/itm/293635520397                                                                                                                                                                            |
+|  11   | Kapp-/Gehrungssäge              | Metabo        | KGS 254 M                |       248,95 € | https://www.bueromarkt-ag.de/kapp-gehrungssaege_metabo_kgs_254_m_paneelsaege,p-602540000,l-94511215,pd-b2c.html                                                                                                 |
+|  12   | Bohrschrauber-Set               | Bosch         | GSR 12V-35 FC            |       210,32 € | https://www.bueroshop24.de/bosch-gsr-12v-35-fc-professional-akku-bohrschrauber-set-12-0-v-mit-2-akkus-150783                                                                                                    |
+|  13   | Multi-Cutter                    | Bosch         | GOP 12V-28               |        84,67 € | https://werkzeugstore24.de/bosch-akku-multi-cutter-gop-12v-28-professional-12-v-solo-im-karton-06018b5001.html                                                                                                  |
+|  14   | Stichsäge                       | Bosch         | GST 12V-70               |        76,88 € | https://werkzeugstore24.de/bosch-akku-stichsaege-gst-12v-70-solo-inkl-zubehoer-set-06015a1001.html                                                                                                              |
+|  15   | Dauerleihgabe: Winkelschleifer  | Makita        |                          |         0,00 € |                                                                                                                                                                                                                 |
+|  16   | Dauerleihgabe: Schwingschleifer | Makita        |                          |         0,00 € |                                                                                                                                                                                                                 |
+|  17   | Dauerleihgabe: Schlagschrauber  | Makita        |                          |         0,00 € |                                                                                                                                                                                                                 |
+|  18   | Ladegerät                       | Makita        | DC18RC                   |        37,43 € | https://www.amazon.de/dp/B007VM44HU                                                                                                                                                                             |
+|  19   | Tischbohrmaschine               | eBay          | gebraucht                |       200,00 € |                                                                                                                                                                                                                 |
+|  20   | Japansäge                       | Heckenrose    | 250 mm                   |        27,90 € | https://www.hornbach.de/shop/Japansaege-Ryoba-Heckenrose-250-mm/7975521/artikel.html                                                                                                                            |
+|  21   | Stemmeisenset                   | Narex         | WOOD LINE PROFI 6-teilig |        67,20 € | https://www.feinewerkzeuge.de/narex-stemmeisen.html                                                                                                                                                             |
+|  22   | Dauerleihgabe: Nassschleifstein |               | K1000/6000               |         0,00 € |                                                                                                                                                                                                                 |
+|  23   | Spende: Möbel-Tacker            |               |                          |         0,00 € |                                                                                                                                                                                                                 |
+|  24   | Spende: Dübelhilfe              | Wolfcraft     | 4640000                  |         0,00 € | https://www.amazon.de/dp/B0001P19PY                                                                                                                                                                             |
+|  25   | Pocket Hole Screw Jig Kit       | Wolfcraft     | TX 4642100               |        38,45 € | https://www.amazon.de/dp/B07CT2XTVG                                                                                                                                                                             |
+|  26   | Anschlagwinkel                  | Messwelt      | 300 x 175 mm             |        34,96 € | https://www.messwelt.com/produkte/winkel-praezision/kontrollwinkel-din-875-normalstahl-mit-anschlag/kontrollwinkel-normalstahl-din-8752-mit-anschlag/11831/kontrollwinkel-300-x-175-mm-mit-anschlag-normalstahl |
+|  27   | Streichmaß                      | Messwelt      | 250 mm, Aluminium        |        17,11 € | https://www.messwelt.com/produkte/anreisswerkzeuge/streichmasse-aus-aluminium/9495/streichmass-250-mm-aluminium                                                                                                 |
+|  28   | Winkelmesser                    | Messwelt      | mit Lupe, 300 mm         |        84,23 € | https://www.messwelt.com/produkte/winkel-gradmesser/universal-winkelmesser-mit-lupe-und-feineinstellung/13651/universal-winkelmesser-mit-lupe-schiene-300-mm                                                    |
+|  29   | Maßband                         | Stanley       | 3 m                      |         2,86 € | https://www.amazon.de/dp/B0024QQQME                                                                                                                                                                             |
+|       | **Summe**                       |               |                          | **2.426,05 €** |                                                                                                                                                                                                                 |
