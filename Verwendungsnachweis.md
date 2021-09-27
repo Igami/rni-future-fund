@@ -109,6 +109,8 @@ Verwendungsnachweis zur Maßnahme Einrichtung einer Möbelwerkstatt - rni-future
 # 5. Zahlenmäßiger Nachweis
 |  Nr.  | Leistendes Unternehmen | Art der Leistung                       | Zahldatum  |  Betrag in EUR | Link                                                                                                                                                                                                            |
 | :---: | :--------------------- | :------------------------------------- | :--------: | -------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  23   | Vereinsmitglied        | Spende: Möbel-Tacker                   | 08.09.2021 |         0,00 € |                                                                                                                                                                                                                 |
+|  24   | Vereinsmitglied        | Spende: Wolfcraft Dübelhilfe           | 08.09.2021 |         0,00 € | https://www.amazon.de/dp/B0001P19PY                                                                                                                                                                             |
 |       |                        | **Summe**                              |            | **2.xxx.xx €** |
 
 |                                                                |            |
