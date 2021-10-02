@@ -146,6 +146,4 @@ die Antragstellerin oder der Antragsteller zum Vorsteuerabzug:
 # 7. Dokumentenupload
 Es können noch 2 Dokument(e) hochgeladen werden.
 
-| Bezeichnung | Name                              |     |
-| :---------- | :-------------------------------- | --- |
-| Sachbericht | [Sachbericht.pdf](Sachbericht.md) |     |
+| Mess- und Anreißmittel | [9baa8107127b7ea67372f1f1b48fc8f4](9baa8107127b7ea67372f1f1b48fc8f4) | ![9baa8107127b7ea67372f1f1b48fc8f4](9baa8107127b7ea67372f1f1b48fc8f4) |
