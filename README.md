@@ -59,15 +59,6 @@ Die Unterlagen zu dieser Förderung sind auf github (https://github.com/makerspa
 |  38   | Contorion                        | STIER Korpuszwingen, 1200 mm, 6000 N                 | 30.11.2021 |       128,72 € | https://www.amazon.de/dp/B08KVVYQW8                                                                                                                                                                             |
 |       |                                  | **Summe**                                            |            | **2.499,11 €** |
 
-
-|                                                                |            |
-| -------------------------------------------------------------: | ---------: |
-|                                             Summe Gesamtkosten | 2.499,11 € |
-|                        abzgl. Einnahmen und Leistungen dritter |     0,00 € |
-|                                Zuwendungsfähige Gesamtausgaben | 2.499,11 € |
-|                                                   Förderbetrag | 2.000,00 € |
-| verbleibender Eigenanteil (oder gegebenenfalls Rückzahlbetrag) |   499,11 € |
-
 # Bilder
 
 | Bezeichnung             | Name                                                                            |                                                                                  |
