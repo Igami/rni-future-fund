@@ -141,8 +141,13 @@ michael@makerspace-gt.de
 Einrichtung einer Möbelwerkstatt - rni-future
 
 ## Beschreibung der Maßnahme
-siehe [README.md](README.md)
+Unser Makerspace ist eine offene Werkstatt in der Maschinen und Werkzeuge gemeinschaftlich genutzt und erforscht werden. Unsere Mitglieder haben verschiedene Kenntnisse und unterstützen sich gegenseitig bei Projekten die sie alleine nicht umsetzen könnten. Auch Nichtmitglieder dürfen die Einrichtung nutzen. Allerdings machen wir keine Auftragsarbeit, sondern es muss selbst hand angelegt werden.
 
+Wir haben bereits eine rudimentär ausgestattete Holzwerkstatt mit einfachen Maschinen die günstig erworben wurden. Leider reichen diese nicht aus um präzise oder ästhetische Gegenstände herzustellen. Daher soll die Holzwerkstatt durch neue Maschinen und Werkzeuge zu einer Möbelwerkstatt aufgewertet werden. Geplant iat die Anschaffung einer Werkbank, Fräsen, Sägen, ein selbstgebautes Absaugsystem, sowie weiteren Geräten zum Hobeln, Bohren, Verbinden und Polstern.
+
+Gütersloh liegt im Herzen der deutschen Möbelindustrie - OWL. Im Kreis Gütersloh sind die Unternehmen Pfleiderer, Nobilia, Venjakob, Möbel Beckhoff, Huga, Westag & Getalit sowie das Edelholzsägewerk Hermann Huxohl und die historische Sägemühle Meier Osthoff ansässig. Zur letzten wurde im Juli 2021 eine Exkursion unternommen um etwas über die historischen Möglichkeiten der Holzverarbeitung zu lernen. Leider hat die Bedeutung der Möbelbranche in Gütersloh stark nachgelassen. Sodass viele Hersteller Insolvenz anmelden mussten. Im Jahr 2007 hat es den letzten Namenhaften Hersteller Flötotto getroffen.
+
+Mit der Möbelwerkstatt wollen wir Personen die Möglichkeit geben selbst eigenes Interieur herzustellen, zu erhalten oder zu verändern. Es soll ein Wertgefühl für die Möbel und insbesondere deren Rohstoffe vermittelt werden. Wir hoffen, dass dadurch weniger billige Möbel gekauft werden. Teil unseres Repair Café soll es werden kunstvolle Möbel zu restaurieren oder alten Möbel durch Upcycling ein neues Leben zu schenken. Nicht zuletzt bringt die Erweiterung auch den Nutzen die eigene Werkstatt mit neuen Möbeln auszustatten.
 ## Regierungsbezirk
 Detmold
 
